@@ -1,0 +1,26 @@
+{
+  "name": "service-worker",
+  "version": "1.0.0",
+  "description": "service-worker 开发实践",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weijiyang/service-worker.git"
+  },
+  "author": "糖少",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/weijiyang/service-worker/issues"
+  },
+  "homepage": "https://github.com/weijiyang/service-worker#readme",
+  "devDependencies": {
+    "@weijiyang/easy-tag": "^2.2.2",
+    "ejs": "^2.6.2",
+    "koa": "^2.8.1",
+    "koa-static": "^5.0.0",
+    "koa-views": "^6.2.0"
+  }
+}
